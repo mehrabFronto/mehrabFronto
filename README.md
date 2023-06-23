@@ -7,6 +7,7 @@
 ### I'm a junior front-end developer with about 1 year experience.
 I'm good at css and styles so i can develop the UI design like the exact design that has given to me. I have a deep knowledge of javaScript that is the most important part of React.js library and i have a complete knowledge of react mindset
 I'm always looking for learning new thing and debuging is my favorite part of programming.
+I'm currently learning Next.js framework.
 
 
 

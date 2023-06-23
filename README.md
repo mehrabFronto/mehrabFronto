@@ -2,15 +2,11 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Mehrab+Dehghan+;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
   </h1>
 
-### 👨‍💻  About Me
+## 👨‍💻  About Me
 
-I'm an Iranian Front-end developer ✌️
-
-🌱 I’m currently learning React.js
-
-✌️ The day when i don't learn a new thing is the day i die.
-
-⚡ give me my laptop 💻 and my headphone 🎧 with a coffee ☕ , So i'm the happiest person in the world 😃
+### I'm a junior front-end developer with about 1 year experience.
+I'm good at css and styles so i can develop the UI design like the exact design that has given to me. I have a deep knowledge of javaScript that is the most important part of React.js library and i have a complete knowledge of react mindset
+I'm always looking for learning new thing and debuging is my favorite part of programming.
 
 
 

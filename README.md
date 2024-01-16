@@ -4,7 +4,7 @@
 
 ### 👨‍💻  About Me:
 
-I'm a Front-end developer with over 1 year experience. I'm crazy about learinig and studying in Front-end field and i'm always learning new things and imporving my knowledge.
+I'm a Front-end developer with over 1 year experience. I'm crazy about learning and studying in Front-end field and i'm always learning new things and improving my knowledge.
 
 
 

@@ -28,7 +28,8 @@ I'm a Front-end developer with over 1 year experience. I'm crazy about learning 
 
 ##
 
-![](https://github-readme-stats.vercel.app/api?username=mehrabFronto&theme=dark&hide_border=true&include_all_commits=false&count_private=true) &nbsp; &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=mehrabFronto&theme=dark&hide_border=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=mehrabFronto&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehrabFronto&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabFronto&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ##

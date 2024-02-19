@@ -11,7 +11,6 @@ I'm a Front-end developer with over 1 year experience. I'm crazy about learning 
 ### 👨‍💻 My Stack:
 
 
-<div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -26,6 +25,14 @@ I'm a Front-end developer with over 1 year experience. I'm crazy about learning 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+##
+
+![](https://github-readme-stats.vercel.app/api?username=mehrabFronto&theme=dark&hide_border=true&include_all_commits=false&count_private=true) &nbsp; &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=mehrabFronto&theme=dark&hide_border=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabFronto&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+##
+
 
 
 

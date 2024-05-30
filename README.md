@@ -33,6 +33,7 @@ I'm a Front-end developer with 2 years experience. I'm crazy about learning and 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehrabFronto&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabFronto&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<a href="https://gitroll.io/profile/uHzKCtcIDD1TV8tDlV6HOHliw6hn2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHzKCtcIDD1TV8tDlV6HOHliw6hn2" alt="GitRoll Profile Badge" style="height: 280px;" /></a>
 ##
 
 

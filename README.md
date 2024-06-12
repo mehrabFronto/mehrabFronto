@@ -4,7 +4,7 @@
 
 ### 👨‍💻  About Me:
 
-I'm a Front-end developer with 2 years experience. I'm crazy about learning and studying in the field of Front-end development and i'm always learning new things and improving my knowledge.
+As a Front-end developer with two years of dedicated learning and practical experience, I am deeply motivated to further my expertise and leveraging my skills to create impactful and user-centric products or services.
 
 
 
